@@ -32,7 +32,8 @@
 <a href="https://linkedin.com/in/muhamad-ferdiansyah-501856168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhamad-ferdiansyah-501856168" height="30" width="40" /></a>
 <a href="https://fb.com/mferdixansyh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mferdixansyh" height="30" width="40" /></a>
 <a href="https://instagram.com/mferdixansyh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mferdixansyh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/m.ferdix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m.ferdix" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@m.ferdix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@m.ferdix" height="30" width="40" /></a>
+<a href="https://discord.gg/perdays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="perdays" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
