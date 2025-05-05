@@ -72,7 +72,7 @@
   <a href="perdays" target="_blank">
     <img src="https://img.shields.io/static/v1?message=@perdays&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto:ferdiadit12@gmail.com?subject=Hello%20???." target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ferdiadit12@gmail.com&body=Hello,%20I%20wanna%20ask%20you!!!" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://linkedin.com/in/muhamad-ferdiansyah-501856168" target="_blank">
